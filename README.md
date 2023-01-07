@@ -1,2 +1,4 @@
 # Date-to-UTC-string
-Convert date to a UTC string 
+
+var date1 = new Date();
+date1.toUTCString();
